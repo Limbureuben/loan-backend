@@ -228,10 +228,4 @@ CSRF_TRUSTED_ORIGINS = [
 CORS_ALLOW_CREDENTIALS = True
 
 
-# import os
-# from dotenv import load_dotenv
-# load_dotenv()
 
-# BEEM_API_KEY = os.getenv("BEEM_API_KEY")
-# BEEM_SECRET_KEY = os.getenv("BEEM_SECRET_KEY")
-# BEEM_APP_ID = os.getenv("BEEM_APP_ID")
