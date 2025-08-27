@@ -214,11 +214,13 @@ CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",
     "http://127.0.0.1:5173",
     "http://127.0.0.1:42217",
+    "loan-backend-production-aece.up.railway.app"
     "http://localhost:4200",  # Angular frontend (default port)
 ]
 
 CSRF_TRUSTED_ORIGINS = [
     "http://localhost:5173",
+    "loan-backend-production-aece.up.railway.app"
     'http://localhost:5173',
     # add others if needed
 ]
